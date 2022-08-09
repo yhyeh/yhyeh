@@ -1,5 +1,5 @@
 ## Hi 👋, I’m Yu-Hsuan, on my way to becoming a professional software engineer
-- A new grad CS student from NCTU(NYCU) in Hsinchu, Taiwan
+- A new graduate MS CS student from NCTU(NYCU) in Hsinchu, Taiwan
 - Looking for a position as **software** / **quantitive** / **machine learning** / **network** engineer
 
 ### What I've learned so far
@@ -10,7 +10,7 @@
 
 - Skills: 
 
-> Data Processing (numpy, pandas) + ML Frameworks (pytorch, keras, sklearn)
+> Data Processing (numpy, pandas, matplotlib) + ML Frameworks (pytorch, keras, sklearn)
 
 > Network Simulation / Trouble Shooting / Programming
 
