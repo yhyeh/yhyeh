@@ -1,7 +1,6 @@
-## Hi 👋, I’m Yu-Hsuan, on my way to becoming a professional software engineer.
+## Hi 👋, I’m Yu-Hsuan, on my way to becoming a professional software engineer
 - A new grad CS student from NCTU(NYCU) in Hsinchu, Taiwan
-- Looking for a position as 
-  - **software** / **quantitive** / **machine learning** / **network** engineer
+- Looking for a position as **software** / **quantitive** / **machine learning** / **network** engineer
 
 ### What I've learned so far
 - Languages: 
